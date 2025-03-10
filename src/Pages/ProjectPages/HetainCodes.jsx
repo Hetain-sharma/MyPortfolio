@@ -16,7 +16,7 @@ const HetainCodes = () => {
       description: `A professional portfolio showcasing various frontend development
               projects.`,
       imgSrc: "/Images/Portfolio/MainPage.png", // Replace with actual path
-      liveLink: "https://shop-ease-psi-eight.vercel.app/",
+      liveLink: "https://my-portfolio-nine-mu-16.vercel.app/",
       repoLink: "https://github.com/Hetain-sharma",
     },
     {
